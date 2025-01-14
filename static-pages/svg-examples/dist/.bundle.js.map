@@ -1,0 +1,1 @@
+{"version":3,"file":".bundle.js","sources":["../scripts/index.ts"],"sourcesContent":["console.log('init');"],"names":["console","log"],"mappings":"yBAAAA,QAAQC,IAAI"}
